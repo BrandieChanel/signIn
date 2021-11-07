@@ -1,3 +1,5 @@
+Basic Social Media App
+
 ## Installation
 
 1. Clone repo
